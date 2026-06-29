@@ -103,7 +103,18 @@ experience:
       role: Information Desk
       location: Puerto Madryn, Argentina
       description: |
-        Accurately informing and helping atendees navigate the building
+        Accurately informing and helping atendees navigate the event
+        + First
+        + Second
+        
+    - company: XXX Congreso Argentino de Ciencias de la Computación
+      link: '#'
+      tags: Event
+      date: 2024.10
+      role: Atendee
+      location: La Plata, Buenos Aires, Argentina
+      description: |
+        Completed the course "Introducción a la gestión y tecnología de Ciudades Inteligentes" (Introduction to management and technologies of Smart Cities)
         + First
         + Second
 
@@ -202,7 +213,7 @@ skill:
 education:
   show: true
   order: 5
-  title: Education
+  title: Formal Education
   description: 
     # The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
 
@@ -226,6 +237,7 @@ education:
       degree: Licentiate/Bachelor
       description: |
         Completed First Year
+        
     - institution: Escuela de La Costa
       link: '#'
       date: 2016 - 2021
@@ -349,7 +361,7 @@ language:
   order: 11
   title: Languages
   description: 
-    Native Spanish speaker; was raised in an environment with a lot of English exposure as well as other (mostly romance) languages and completed 1 year of Elementary school in the USA. 
+    Native Spanish speaker; was raised in an environment with a lot of English exposure as well as other (mostly romance) languages and completed a year and a half of Elementary school in the USA. 
     
     # The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
 
@@ -361,7 +373,7 @@ language:
     - idiom: English
       level: Native/Professional
     - idiom: Japanese
-      level: Conversational
+      level: Begginer
 
 interest:
   show: true
